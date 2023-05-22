@@ -6,8 +6,8 @@ def copy_files(source_folder, destination_folder):
     """소스 폴더의 파일들을 대상 폴더로 복사합니다.
 
     Args:
-        source_folder (str): 복사할 폴더 경로
-        destination_folder (str): 붙여넣을 폴더 경로
+        source_folder (str): 복사할 파일이 있는 소스 디렉토리 경로입니다.
+        destination_folder (str): 복사된 파일이 위치할 대상 디렉토리 경로입니다.
     """
     file_list = os.listdir(source_folder)
 
