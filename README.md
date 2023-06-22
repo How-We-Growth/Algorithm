@@ -4,7 +4,7 @@
 |                                   곽명빈                                     |                                       이동헌                                        |      박찬양      |                                                                               
 |:--------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------:|
 | <img width="160px" src="https://avatars.githubusercontent.com/u/62679812?v=4" /> | <img width="160px" src="https://avatars.githubusercontent.com/u/80760160?v=4" /> | <img width="160px" src="https://avatars.githubusercontent.com/u/120891914?v=4" /> | 
-|                 [@Myungbin](https://github.com/Myungbin)                 |                      [@Sirius506775](https://github.com/Sirius506775)                      |                     [@MiniMini-On](https://github.com/Sirius506775)                      |    
+|                 [@Myungbin](https://github.com/Myungbin)                 |                      [@Sirius506775](https://github.com/Sirius506775)                      |                     [@MiniMini-On](https://github.com/MiniMini-On)                      |    
    
 
 ## Directory Structure
