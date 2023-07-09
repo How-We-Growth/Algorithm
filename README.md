@@ -17,11 +17,20 @@
 ## Study Convention
 - 스터디 교재 :  "Do it! 알고리즘 코딩테스트" (추후 프로그래머스로 변경)
 - 각자 개인 브랜치에 주차별 진행사항 push
-- 일주일에 5파트씩 풀이 진행
 - 규칙 위반 시 5천원 씩 벌금(한 문제 빼고 다 풀었어요 = X, 다 풀었는데 commit 미이행 = X)
 
 ## Commit Convention
-- ex.) ✨ 8주차 알고리즘 풀이
+| Emoji  | Tag |  Description         |
+|:-:|:------:|:--------:|
+| ✨  | feat |     새로운 기능 추가    |
+| 🐛  | fix |     버그 수정    |
+| ♻️  | refactor |     코드 리팩토링    |
+| ✏️ |     comment   | 주석 추가(코드 변경x) 혹은 오타 수정 |
+| 📝  | docs |     README와 같은 문서 수정    |
+| 🚚  | rename |     파일, 폴더명 수정 혹은 이동    |
+
+
+  
 
 ## Records
 |   |        | Dongheon | Myungbin | Chanyang |
