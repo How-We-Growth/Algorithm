@@ -38,6 +38,6 @@ def compare_and_copy_files(source_dir, destination_dir):
 
 
 if __name__ == "__main__":
-    source_folder = 'C:\Project_MB\Algorithm\프로그래머스'
-    destination_folder = 'C:\Project_MB\How-We-Growth\Algorithm\myungbin\programmers'
+    source_folder = 'C:\Project_MB\Algorithm\백준'
+    destination_folder = r'C:\Project_MB\How-We-Growth\Algorithm\baekjoon'
     compare_and_copy_files(source_folder, destination_folder)
