@@ -34,5 +34,7 @@
 | 6 | W3 Jun |     O    |     O    |     O    |
 | 7 | W4 Jun |     O    |     O    |     O    |
 | 8 | W1 Jul |     O    |     O    |     O    |
-| 9 | W2 Jul |     ?    |     ?    |     O    |
+| 9 | W2 Jul |     O    |     O    |     O    |
+| 10 | W3 Jul |     ?    |     ?    |     O    |
+| 11 | W4 Jul |     ?    |     ?    |     ?    |
 |   | 💸    |        1 |        1 |        0 |
