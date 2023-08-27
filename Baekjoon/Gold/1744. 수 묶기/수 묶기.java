@@ -6,7 +6,7 @@ public class Main {
     Scanner sc = new Scanner(System.in);
     int N = sc.nextInt(); 
     PriorityQueue<Integer> plusPq = new PriorityQueue<>(Collections.reverseOrder());
-    PriorityQueue<Integer> minusPq = new PriorityQueue<>();
+    PriorityQueue<Integer> minusPq = new PriorityQueue<>(); //묶어버려!
     int one = 0;
     int zero = 0;
     for (int i = 0; i < N; i++) { 
