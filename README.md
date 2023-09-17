@@ -40,5 +40,7 @@
 | 12 | W1 Aug |     O    |     O    |     O    |
 | 13 | W2 Aug |     X    |     O    |     O    |
 | 14 | W3 Aug |     O    |     O    |     X    |
-| 15 | W4 Aug |     ?    |     ?    |     O    |
+| 15 | W4 Aug |     X    |     O    |     O    |
+| 16 | W1 Sep |     O    |     O    |     O    |
+| 16 | W2 Sep |     ?    |     ?    |     O    |
 |   | 💸    |        2 |        1 |        1 |
