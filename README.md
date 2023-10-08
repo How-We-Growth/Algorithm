@@ -42,14 +42,15 @@
 | 7 | W4 Jun |     O    |     O    |     O    |
 | 8 | W1 Jul |     O    |     O    |     O    |
 | 9 | W2 Jul |     O    |     O    |     O    |
-| 7 | W3 Jul |     O    |     O    |     O    |
-| 8 | W4 Jul |     O    |     O    |     O    |
-| 9 | W1 Aug |     O    |     O    |     O    |
-| 10 | W2 Aug |     X    |     O    |     O    |
-| 11 | W3 Aug |     O    |     O    |     X    |
-| 12 | W4 Aug |     O    |     O    |     O    |
-| 13 | W1 Sep |     X    |     O    |     O    |
-| 14 | W2 Sep |     O    |     O    |     O    |
-| 15 | W3 Sep |     O    |     X    |     O    |
-| 16 | W4 Sep |     ?    |     ?    |     ?    |
+| 10 | W3 Jul |     O    |     O    |     O    |
+| 11 | W4 Jul |     O    |     O    |     O    |
+| 12 | W1 Aug |     O    |     O    |     O    |
+| 13 | W2 Aug |     X    |     O    |     O    |
+| 14 | W3 Aug |     O    |     O    |     X    |
+| 15 | W4 Aug |     O    |     O    |     O    |
+| 16 | W1 Sep |     X    |     O    |     O    |
+| 17 | W2 Sep |     O    |     O    |     O    |
+| 18 | W3 Sep |     O    |     X    |     O    |
+| 19 | W4 Sep |     O    |     O    |     O    |
+| 20 | W4 Sep |     ?    |     ?    |     ?    |
 |   | 💸    |        3 |        2 |        1 |
